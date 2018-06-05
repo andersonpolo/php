@@ -7,5 +7,6 @@
   echo "</br><h1>$tot</h1>";
   echo "Alô mundo!";
   echo "Façamos a diferença!";
+  echo "Sim faremos";
 
  ?>
