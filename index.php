@@ -6,5 +6,6 @@
   $tot = $v1 + $v2;
   echo "</br><h1>$tot</h1>";
   echo "Alô mundo!";
+  echo "Façamos a diferença!";
 
  ?>
