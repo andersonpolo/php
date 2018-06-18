@@ -1,12 +1,15 @@
-<?php 
+<?php
 //usar por preferencia o require_once
 require_once "inc/exemplo01.php";
 include_once "inc/exemplo01.php";
 /* temos duas versões para uso: o require e o include
-devemos dar preferencia ao require, e se for o caso sempre o 
+devemos dar preferencia ao require, e se for o caso sempre o
 require_once
 */
-$resultado = somar(100, 25);
+$resultado = somar(1000.49, 25.97);
 
-echo $resultado;
+$total = multiplicar(9, 5672345);
+
+echo  "<h1>A soma é $resultado, a multiplicação é $total</h1>";
+
  ?>
