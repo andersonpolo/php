@@ -8,7 +8,7 @@ require_once
 */
 $resultado = somar(1000.49, 25.97);
 
-$total = multiplicar(9, 5672345);
+$total = multiplicar(936.66, 1);
 
 echo  "<h1>A soma é $resultado, a multiplicação é $total</h1>";
 
