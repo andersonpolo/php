@@ -1,8 +1,8 @@
 <?php 
 
-for ($i=0 ; $i < 100 ; $i++ ) { 
+for ($i=0 ; $i <= 100 ; $i+=2 ) { 
 	
-	echo "<h1>vamos lá Trump! <br></h1>";
+	echo "<h1>$i - Vamos lá Trump! <br></h1>";
 }
 
 

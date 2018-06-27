@@ -1,4 +1,6 @@
 <?php 
+//if, elseif, else e o operador ternario (cond1 > cond2)?"ola mundo":"Ola marte";
+
 
 $qualASuaIdade = 218;
 

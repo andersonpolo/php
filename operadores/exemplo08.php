@@ -7,7 +7,7 @@ echo $resultado;
 
 echo "<br>";
 
-// (&&) and (||) or
+/*operadores logicos (&&) (AND) (||) (OR) (!)not (XOR) */
 
 $valor = 8 > 6 && 7 < 5;
 

@@ -1,5 +1,5 @@
 <?php
-//operadores de comparação (>)maior (<)menor (>=)maior e igual (<=)menor e igual (==)igual (!=)diferente (===) identico. */
+//operadores de comparação (>)maior (<)menor (>=)maior e igual (<=)menor e igual (==)igual (!=)diferente (===) identico (!==)não identico. */
 $a = 55.0;
 
 $b = 55;
