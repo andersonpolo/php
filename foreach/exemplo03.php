@@ -1,15 +1,16 @@
 <?php
 
+$dll = date("w");
+
 $dias = array ("Domingo","Segunda-Feira","Terça-Feira","Quarta-Feira",
               "Quinta-Feira","Sexta-Feira","Sábado");
 
-$dia = date("w");
 
-foreach ($dias as $dia){
+
+foreach ($dias as $dia => $hoje){
     
-    
-    
-    echo "Hoje é $dia.<br>";
+    if($dia==$dll)  echo "Hoje é $hoje.<br>";
+
 }
 
 ?>
